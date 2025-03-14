@@ -7,9 +7,9 @@ first_name: Yongfu
 middle_name: 
 last_name: Wang
 contact_note: >
-  yongfu.wang@nottingham.edu.cn
+  yongfuwang
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Yongfu (Relic) Wang's Personal Website.
+  Yongfu Wang Personal Website
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
